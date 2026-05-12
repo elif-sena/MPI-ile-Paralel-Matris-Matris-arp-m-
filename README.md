@@ -1,1 +1,1 @@
-# MPI-ile-Paralel-Matris-Matris-arp-m-
+# MPI-ile-Paralel-Matris-Matris-Carpimi
